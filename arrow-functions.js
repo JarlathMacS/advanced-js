@@ -45,6 +45,6 @@ const multiLine = () => (
     `<p>
     This is a paragraph.
     </p>`
-);
+)
 
 console.log(multiLine());
