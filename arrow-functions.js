@@ -5,13 +5,13 @@
 
 // Vanilla JavaScript Function
 
-// function addTwoNums(a, b) {
-//     // code block
-//     return a + b;
-// }
+function addTwoNums(a, b) {
+    // code block
+    return a + b;
+}
 
-// let sum = addTwoNums(3, 5);
-// console.log(sum);
+let sum = addTwoNums(3, 5);
+console.log(sum);
 
 // Arrow Function With Parameters
 
@@ -20,8 +20,8 @@ const addTwoNums = (a, b) => {
     return a + b;
 }
 
-let sum = addTwoNums(3, 5);
-console.log(sum);
+let sum1 = addTwoNums(3, 5);
+console.log(sum1);
 
 // Single Line Arrow Function With Parameters
 
